@@ -9,4 +9,4 @@ seaborn
 sklearn
 keras
 
-# All the files and datasets are included
+# All the files are included and dataset can be found on https://www.kaggle.com/mlg-ulb/creditcardfraud
